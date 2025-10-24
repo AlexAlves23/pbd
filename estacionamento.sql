@@ -1,3 +1,4 @@
+--Alex Alves , Felipe Viana, Vinicius Francisco, Luiz Henrique, Alisson Luiz
 CREATE TABLE Usuario (
     id_usuario INTEGER PRIMARY KEY,
     nome VARCHAR(100),
